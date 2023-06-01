@@ -1,0 +1,1 @@
+['origin\\bag_1', 'origin\\bag_2', 'origin\\bag_3', 'origin\\bag_4']
